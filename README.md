@@ -39,16 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sruthi-273&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-273&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
